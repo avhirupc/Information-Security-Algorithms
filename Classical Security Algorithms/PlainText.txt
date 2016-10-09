@@ -1,1 +1,1 @@
-The Caesar cipher, also known as a shift cipher, is one of the simplest forms of encryption. It is a substitution cipher where each letter in the original message (called the plaintext) is replaced with a letter corresponding to a certain number of letters up or down in the alphabet.
+The Caesar cipher, also known as a shift cipher, is one of the simplest forms of encryption.
